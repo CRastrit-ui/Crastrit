@@ -1,52 +1,40 @@
-<!-- Language Toggle -->
-<p align="right">
-  <a href="#english"><img src="https://img.shields.io/badge/English-555555?style=flat-square&logo=google-translate" alt="English"></a>
-  <a href="#русский"><img src="https://img.shields.io/badge/Русский-555555?style=flat-square&logo=google-translate" alt="Русский"></a>
-</p>
+# Привет, я [Ваше Имя]! 👋
 
-<div id="english">
+🚀 Разработчик с уклоном в математику и алгоритмы  
+💻 Пишу код на Python, C++, JS и Lua  
+🎨 Создаю красивые и функциональные веб-интерфейсы  
 
-<h1 align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30px" alt="Wave">
-  Hello, I'm [Your Name]
-</h1>
+## 🛠️ Навыки  
 
-<h3 align="center">Math & Full-Stack Developer</h3>
+<div align="center">  
 
-### 🛠 Tech Stack
+<!-- Анимированные иконки через https://icons8.com/preloaders/ или https://devicon.dev/ -->  
+<img src="https://img.icons8.com/color/48/000000/math.png" alt="Math" title="Математика" width="50" height="50"/>  
+<img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python" width="50" height="50"/>  
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" width="50" height="50"/>  
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" title="HTML" width="50" height="50"/>  
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" width="50" height="50"/>  
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JS" title="JavaScript" width="50" height="50"/>  
+<img src="https://img.icons8.com/color/48/000000/lua.png" alt="Lua" title="Lua" width="50" height="50"/>  
 
+</div>  
+
+## 🔥 Моя статистика  
+
+<!-- Анимированная статистика GitHub -->  
+<div align="center">  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ВАШ-GITHUB-USERNAME&theme=radical&border_radius=10&mode=weekly)](https://git.io/streak-stats)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ-GITHUB-USERNAME&layout=compact&theme=radical&hide_border=true)  
+
+</div>  
+
+## 🎥 Анимация с CSS (опционально)  
+
+Если хотите добавить CSS-анимацию, можно так:  
+
+```html
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,lua,js,html,css,react,vue,git,vscode&theme=light&perline=5">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF2D00&width=500&lines=Привет!+Я+разрабатываю+на+Python+и+C++;Люблю+математику+и+алгоритмы" alt="Typing Animation" />
 </div>
-
-### 📊 Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=00000000" width="45%">
-</div>
-
-### 📍 Currently
-
-```python
-current = {
-    "learning": "Advanced C++ patterns",
-    "building": "React/Vue dashboard",
-    "reading": "Clean Code by R. Martin"
-}
-</div><div id="русский"><h1 align="center"> <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30px" alt="Волна"> Привет, я [Ваше Имя] </h1><h3 align="center">Разработчик (Математика/Full-Stack)</h3>
-🛠 Стек технологий
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,lua,js,html,css,react,vue,git,vscode&theme=light&perline=5"> </div>
-📊 Статистика
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000" width="48%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=00000000" width="45%"> </div>
-📍 Сейчас
-python
-Copy
-current = {
-    "изучаю": "Продвинутые паттерны C++",
-    "разрабатываю": "Панель управления на React/Vue",
-    "читаю": "Чистый код Р. Мартина"
-}
-</div>
-📫 Контакты / Contacts
-<div align="center"> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail"> </a> <a href="https://t.me/your_username"> <img src="https://img.shields.io/badge/Telegram-555555?style=for-the-badge&logo=telegram"> </a> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github"> </a> </div><!-- Subtle divider --><img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/svg/divider.svg" width="100%"> ```
