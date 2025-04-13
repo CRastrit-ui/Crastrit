@@ -34,7 +34,7 @@
 
 Если хотите добавить CSS-анимацию, можно так:  
 
-```html
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF2D00&width=500&lines=Привет!+Я+разрабатываю+на+Python+и+C++;Люблю+математику+и+алгоритмы" alt="Typing Animation" />
 </div>
